@@ -1,4 +1,4 @@
-# snow-flake
+# snowflake
 PCB KiCad project and Arduino sketch
 
 The footprints of this project had been modified.
